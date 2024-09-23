@@ -1,0 +1,12 @@
+body {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  body {
+    background-image: url('halloween_background_with_blood_splatters_and_drips_1409.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
