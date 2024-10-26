@@ -2,6 +2,10 @@ body {
     font-family: "Pacifico", cursive;
     font-weight: 400;
     font-style: normal;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   body {
